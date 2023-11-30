@@ -1,93 +1,93 @@
 .wrapper {
-  width: 400px;
-  height: 400px;
-  display: flex;
-  flex-wrap: wrap;
-  background-color: green;
-  margin: auto;
-  margin-top: 10px;
-  margin-bottom: 1vw;
-  border-radius: 5px;
+	width: 404px;
+	height: 404px;
+	display: flex;
+	flex-wrap: wrap;
+	background-color: green;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 1vw;
+	border-radius: 5px;
 }
 
 .wrapper div {
-  height: 38.4px;
-  width: 38.4px;
-  text-align: center;
-  font-size: 1.8em;
-  font-weight: 800;
-  border: 1px solid rgb(137, 137, 206);
-  border-radius: 5px;
+	height: 38.4px;
+	width: 38.4px;
+	text-align: center;
+	font-size: 1.8em;
+	font-weight: 800;
+	border: 1px solid rgb(137, 137, 206);
+	border-radius: 5px;
 }
 
 .wrapper div:hover {
-  cursor: pointer;
+	cursor: pointer;
 }
 
 .new-game {
-  width: 90px;
-  height: 23px;
-  background-color: rgb(188, 236, 236);
-  margin: auto;
-  text-align: center;
-  border-radius: 9px;
-  border: 1px solid black;
+	width: 90px;
+	height: 23px;
+	background-color: rgb(188, 236, 236);
+	margin: auto;
+	text-align: center;
+	border-radius: 9px;
+	border: 1px solid black;
 }
 
 .new-game:hover {
-  cursor: pointer;
+	cursor: pointer;
 }
 
 .checked {
-  background-color: antiquewhite;
+	background-color: antiquewhite;
 }
 
 .counter-results {
-  display: flex;
-  width: 400px;
-  height: 400px;
-  margin: auto;
-  justify-content: space-around;
+	display: flex;
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	justify-content: space-around;
 }
 
 .counter {
-  width: 90px;
-  height: 90px;
-  background-color: aliceblue;
+	width: 90px;
+	height: 90px;
+	background-color: aliceblue;
 }
 
 .timer {
-  width: 90px;
-  height: 90px;
-  background-color: aqua;
-  border-radius: 9px;
-  border: 1px solid;
+	width: 90px;
+	height: 90px;
+	background-color: aqua;
+	border-radius: 9px;
+	border: 1px solid;
 }
 
 .counter-moves {
-  width: 90px;
-  height: 90px;
-  background-color: rgb(89, 200, 120);
-  border-radius: 9px;
-  border: 1px solid;
+	width: 90px;
+	height: 90px;
+	background-color: rgb(89, 200, 120);
+	border-radius: 9px;
+	border: 1px solid;
 }
 
 .flag-wrapper {
-  width: 90px;
-  height: 90px;
-  background-color: rgb(45, 11, 180);
-  border-radius: 9px;
-  border: 1px solid;
+	width: 90px;
+	height: 90px;
+	background-color: rgb(45, 11, 180);
+	border-radius: 9px;
+	border: 1px solid;
 }
 
 .flag-amount {
-  color: aliceblue;
+	color: aliceblue;
 }
 
 .bomb-wrapper {
-  width: 90px;
-  height: 90px;
-  background-color: rgb(254, 253, 254);
-  border-radius: 9px;
-  border: 1px solid;
+	width: 90px;
+	height: 90px;
+	background-color: rgb(254, 253, 254);
+	border-radius: 9px;
+	border: 1px solid;
 }
